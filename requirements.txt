@@ -2,5 +2,8 @@ langchain
 langchain-community
 langchain-core
 langchain-groq
+langchain-openai
 
 langgraph
+
+Ipython

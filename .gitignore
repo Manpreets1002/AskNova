@@ -4,3 +4,10 @@
 
 # Environment File
 .env
+
+
+# Cache Files
+__pycache__
+
+# Graph Image
+workflow.png
