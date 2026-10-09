@@ -3,6 +3,7 @@ langchain-community
 langchain-core
 langchain-groq
 langchain-openai
+langchain-ollama
 
 langgraph
 
